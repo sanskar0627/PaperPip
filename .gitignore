@@ -110,3 +110,6 @@ temp/
 # private local docs - never commit
 DEPLOY.md
 DEPLOYMENT_REVIEW.md
+
+# Launch video renders (too large for GitHub)
+launch-video/
