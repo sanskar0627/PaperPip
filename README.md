@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="docs/assets/banner.jpg" alt="PaperPip: real market, paper money" width="100%" />
@@ -25,7 +26,11 @@ The only thing that isn't real is the money.
 ## 🎬 Launch film
 
 <a href="https://paperpip.sanskarshukla.com">
-  <img src="docs/assets/launch-poster.jpg" alt="Watch the PaperPip launch film" width="100%" />
+
+
+https://github.com/user-attachments/assets/7be7f345-f7c1-4e31-b1dc-250a68268992
+
+
 </a>
 
 <!--
